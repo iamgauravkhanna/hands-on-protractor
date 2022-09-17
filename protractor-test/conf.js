@@ -1,6 +1,6 @@
 // conf.js
 exports.config = {
     framework: 'jasmine',
-    specs: ['./spec.js'],
+    specs: ['../browser-commands.js'],
     directConnect: true,
 }
